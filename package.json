@@ -3,10 +3,23 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtripg6666tdr/commitlint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mtripg6666tdr/commitlint-config.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "mtripg6666tdr",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^5.0.0"
+  }
 }
