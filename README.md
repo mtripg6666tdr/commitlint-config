@@ -3,7 +3,7 @@
 # @mtripg6666tdr/commitlint-config
 Sharable `commitlint` config enforcing some rules
 
-## Gettings Started
+## Getting Started
 1. Install `@commitlint/cli`
 2. Install `@mtripg6666tdr/commitlint-config`
 3. Configure commitlint config
