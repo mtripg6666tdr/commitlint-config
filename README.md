@@ -1,5 +1,7 @@
+> Note: this package is mainly for my own use, but it might be useful if you use as needed  
+
 # @mtripg6666tdr/commitlint-config
-Sharable `commitlint` config enforcing some rules.
+Sharable `commitlint` config enforcing some rules
 
 ## Gettings Started
 1. Install `@commitlint/cli`
