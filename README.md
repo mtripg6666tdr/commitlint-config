@@ -10,7 +10,7 @@ Sharable `commitlint` config enforcing some rules
 4. Configure git commit hooks if you like
 
 ## Rules
-> Seeing is believing.
+Here are some rules that this package contains
 
 ### type-enum
 ```js
@@ -35,6 +35,7 @@ Sharable `commitlint` config enforcing some rules
 - If the commit message starts with `Merge`, skip all rules whatever it is.
 - If the commit message includes `[wip]` (uppercase or lowercase does not matter), skip all rules whatever it is.
 
+> Seeing is believing.  
 [See this for other rules](index.js)
 
 ## License
