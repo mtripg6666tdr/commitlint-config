@@ -1,7 +1,7 @@
 {
   "name": "@mtripg6666tdr/commitlint-config",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.1.0",
+  "description": "Sharable `commitlint` config enforcing some rules",
   "main": "index.js",
   "files": [
     "index.js"
