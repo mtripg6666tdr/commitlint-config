@@ -16,18 +16,23 @@ module.exports = {
       2,
       "always",
       [
-        "Chore",
-        "Change",
-        "Improve",
-        "Fix",
-        "Update",
-        "Feat",
-        "Perf",
-        "Add",
-        "Docs",
-        "Remove",
-        "Rename"
+        "Chore",  // chore (e.g. buildline, workflow and so on)
+        "Change", // change something
+        "Improve",// code improvements (e.g. refactoring) without any logic changes
+        "Fix",    // fix bugs
+        "Update", // update dependencies
+        "Feat",   // add new features
+        "Perf",   // performance improvements
+        "Add",    // add some stuff
+        "Docs",   // update documentation
+        "Remove", // remove something
+        "Rename", // rename something
+        "Revert", // revert previous commits
+        "Bump",   // bump repository's version
       ],
     ],
   },
+  ignores: [
+    commit => commit.startsWith("Merge") || commit.toUpperCase().includes("[WIP]")
+  ],
 };
