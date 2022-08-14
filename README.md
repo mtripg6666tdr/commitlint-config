@@ -1,6 +1,7 @@
 > Note: this package is mainly for my own use, but it might be useful if you use as needed  
 
 # @mtripg6666tdr/commitlint-config
+[![npm](https://img.shields.io/npm/v/@mtripg6666tdr/commitlint-config)](https://www.npmjs.com/package/@mtripg6666tdr/commitlint-config)  
 Sharable `commitlint` config enforcing some rules
 
 ## Getting Started
