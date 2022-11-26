@@ -8,6 +8,6 @@ updates:
       timezone: "Asia/Tokyo"
     commit-message:
       prefix: "Update:"
-    target-branch: "master"
+    target-branch: "main"
     allow:
       - dependency-type: "direct"
