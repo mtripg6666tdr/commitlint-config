@@ -20,6 +20,6 @@
   "author": "mtripg6666tdr",
   "license": "MIT",
   "dependencies": {
-    "conventional-changelog-conventionalcommits": "^7.0.1"
+    "conventional-changelog-conventionalcommits": "^8.0.0"
   }
 }
